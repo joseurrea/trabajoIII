@@ -1,0 +1,14 @@
+Realiza el siguiente ejercicio siguiendo fielmente el modelo, prestando especial atención a los siguientes aspectos. 
+
+- Identificar las partes del documento
+- Utilizar los headers <h1> .. </h6> adecuadamente
+- Utilizar los tags <p>, <em>, <strong>, <span>
+- Aplicar estilos CSS a cajas y demás elementos en una hoja de estilos externa
+- Utilizar listas <ul>, <ol>, <li>, etc
+- Comentar el código con <!-- Comentario -->
+- Incorporar imágenes al texto incluidas en un directorio
+- Utilizar HTML5 y pasar las validaciones
+- En lugar de utilizar <div clase=""> utilizar tags semánticos de HTML5: <header>, <section>, <article>. <figure>
+- Puedes encontrar el contenido en Wikipedia en la película de Gattaca
+- Utiliza comentarios /* */ dentro del fichero CSS para diferenciar las distintas partes del documento.
+

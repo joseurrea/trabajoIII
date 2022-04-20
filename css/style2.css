@@ -1,0 +1,96 @@
+
+/* HEADER */
+header {
+	background-color: lightgray;
+	height: 150px;
+}
+/* Propiedades logo */
+header #logo {
+	float: left;
+}
+
+header nav ul {
+	float: right;
+	border-bottom: 1px solid black;
+	padding: 0 10px 3px 10px;
+    	margin-right: 10px;
+}
+
+header nav ul li {
+	display: inline;
+	border: 1px solid black;
+	padding: 3px;
+    	background-color: white;
+    	border-top-left-radius: 10px;
+    	border-top-right-radius: 10px;
+}
+
+header nav ul li a {
+	text-decoration: none;
+}
+
+/* MAIN */
+
+main {
+	border: 1px solid black;
+	background-color: gray;
+	padding: 1em;
+}
+
+main section {
+	background-color: lightgray;
+	margin: 1em;
+	padding: 1em;
+}
+
+main section figure {
+	float: right;
+	border: 1px solid black;
+	padding: 0.25em;
+	background-color: black;
+}
+
+main section figure figcaption {
+	color: white;
+	font-size: .8em;
+	text-align: center;
+	font-family: "Arial", Verdana, sans-serif;
+}
+
+main section.categorias {
+	border: 1px solid black;
+}
+
+main section.categorias h2,
+main section.categorias li,
+main section.categorias ul {
+	display: inline;
+}
+
+main section.categorias ul {
+	padding-left: 10px;
+}
+
+main section.categorias li {
+	border-left: 1px solid black ;
+	padding: 0 10px 0 10px;
+}
+
+main section.categorias h2 {
+	font-size: .9em;
+}
+
+/* FOOTER */
+
+footer {
+	background-color: lightgray;
+	font-size: .9em;
+}
+
+footer nav ul {
+	padding-left: 0;
+}
+
+footer nav ul li {
+	display: inline;
+}
